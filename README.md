@@ -1,6 +1,8 @@
 About libiconv
 ==============
 
+[![Powered by NumFOCUS](https://img.shields.io/badge/powered%20by-NumFOCUS-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](http://numfocus.org)
+
 Home: https://www.gnu.org/software/libiconv/
 
 Package license: GPL and LGPL
@@ -17,6 +19,7 @@ Current build status
 [![Linux](https://img.shields.io/circleci/project/github/conda-forge/libiconv-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/libiconv-feedstock)
 [![OSX](https://img.shields.io/travis/conda-forge/libiconv-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/libiconv-feedstock)
 [![Windows](https://img.shields.io/appveyor/ci/conda-forge/libiconv-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/libiconv-feedstock/branch/master)
+[![linux-aarch64](https://img.shields.io/shippable/5c33c5ad87b5930700c3ebbd/aarch64.svg?label=linux-aarch64)](https://app.shippable.com/github/Archiconda/libiconv-feedstock)
 
 Current release info
 ====================
@@ -104,3 +107,12 @@ In order to produce a uniquely identifiable distribution:
  * If the version of a package **is** being increased, please remember to return
    the [``build/number``](https://conda.io/docs/user-guide/tasks/build-packages/define-metadata.html#build-number-and-string)
    back to 0.
+
+Feedstock Maintainers
+=====================
+
+* [@jakirkham](https://github.com/jakirkham/)
+* [@jhamman](https://github.com/jhamman/)
+* [@ocefpaf](https://github.com/ocefpaf/)
+* [@scopatz](https://github.com/scopatz/)
+
